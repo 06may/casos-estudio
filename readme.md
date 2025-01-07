@@ -44,3 +44,6 @@ Un saldo pendiente de pago.
 Actividad:
 
 Identifica los elementos para la tarjeta de débito y la tarjeta de crédito.
+
+### link para ver el trabajo en drive : 
+https://drive.google.com/file/d/15efs3JHNFYygv6N3pY5wXAnceoxDAfRi/view?usp=drive_link
